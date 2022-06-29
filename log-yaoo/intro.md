@@ -1,5 +1,26 @@
 # introduction
 
+
+# 0629-environment
+
+- 待安装软件
+  - microsoft edge 浏览器
+
+- 常用网站 (国内 > 国外)
+  - 百度
+    - google
+  - 腾讯
+    - facebook
+  - 阿里
+    - amazon
+  - https://gitee.com
+    - https://github.com
+  - zhihu.com
+    - https://stackoverflow.com
+
+- 电脑系统
+  - 操作系统 windows，MacOS, Linux(ubuntu/debian/centos)
+
 # 0629-熟悉使用MacBook笔记本电脑
 
 ## prepare-sign-up
@@ -11,8 +32,8 @@
 ## install
 
 - 腾讯会议
-- xcode
 - 百度网盘/阿里云盘
+- xcode
 
 ## 熟悉使用macbook笔记本电脑的小技巧和快捷键
 
