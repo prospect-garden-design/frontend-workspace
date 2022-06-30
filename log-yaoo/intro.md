@@ -1,8 +1,29 @@
 # introduction
+- common
+  - https://hub.fastgit.xyz/prospect-garden-design/frontend-workspace/blob/main/log-yaoo/intro.md
+  - https://github.com/prospect-garden-design/frontend-workspace
+# 0630-environment-dev
 
-- https://hub.fastgit.xyz/prospect-garden-design/frontend-workspace/blob/main/log-yaoo/intro.md
+- 将今天学到的一些有意思的东西像这个文档一样记一下
+  - 不需要很长，只记自己觉得有意思的、或重要的、或容易忘的小点
+  - 每个小点尽量不超过一行文字
+  - 每行以短横开头，写成类似这样  `- mac可以三指拖拽`
+
+- 调整电脑头像、常用网站头像，头像统一用 512x512 px像素大小
+- 电脑重要设置项调整
+  - 选择地点的默认选 美国 united states，配置起来问题更少
+  - Trackpad 触摸板，每个勾选都了解下意思，自己打些勾配置成自己喜欢的手势
+- 熟悉spotlight，快速搜索电脑文件
+- 常用操作使用键盘，而不是鼠标
+  - 文件 复制、粘贴、移动
+  - 截图部分
+  - 浏览器切换标签页
+
+- 在知乎搜索 github教程 ，开始了解工作网站github
+  - 尝试搜索 github desktop 教程
+  - 自己在github上创建仓库，尝试一下，跟着教程做一做
+
 # 0629-environment
-
 - 待安装软件
   - microsoft edge 浏览器
 
@@ -20,7 +41,6 @@
 
 - 电脑系统
   - 操作系统 windows，MacOS, Linux(ubuntu/debian/centos)
-
 # 0629-熟悉使用MacBook笔记本电脑
 
 ## prepare-sign-up
@@ -47,8 +67,6 @@
 
 - 使用Mac的100个小技巧 (可不看，只需了解下留个印象)
   - https://www.bilibili.com/video/BV1Xc411h7ve
-
-
 # 0702-前端第一课
 
 ## 职业方向
