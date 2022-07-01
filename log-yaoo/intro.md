@@ -2,6 +2,47 @@
 - common
   - https://hub.fastgit.xyz/prospect-garden-design/frontend-workspace/blob/main/log-yaoo/intro.md
   - https://github.com/prospect-garden-design/frontend-workspace
+# 0701-视频预习 + github上传下载
+- github上传下载
+  - 先把ssh-key放到了github设置里面
+  - 安装 依赖 git 工具包
+  - 在terminal/终端/命令行实现上传下载
+
+- 1. 将本地文件夹和github repo关联，一个repo只要做一次
+```shell
+# git仓库初始化
+git init
+
+# 将本地文件夹和远程repo建立关联
+git remote add origin  复制的链接
+
+```
+- 2. 上传下载
+
+```shell
+
+# 每次上传前，先添加文件，再写描述
+git add .
+git ci -m'chore: commit'
+git ci -m'add: file'
+
+# 第一次上传 
+
+git push -u origin main
+
+# 以后上传 
+git push
+
+# 以后
+git pull
+```
+
+- repository类似文件夹，类似网盘
+
+- terminal 终端 命令行 ，意思相同
+
+- github相关的资料周六我带你做一遍比看文档有效多了，你不用看了，有问题直接搜索即可；
+- 今天你先看这个文档 0702的内容，然后主要看第一个视频，看5-10个即可，，，记得在笔记本电脑上做些笔记
 # 0630-environment-dev
 
 ## good habit
