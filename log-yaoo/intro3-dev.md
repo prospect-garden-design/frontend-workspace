@@ -97,12 +97,27 @@
 - 前端基础视频
   - 💡 黑马程序员pink老师前端入门教程 HTML5+CSS3+移动端
     - https://www.bilibili.com/video/BV14J4114768
-    - 移动端从 P398 开始
-    - 不需要看bootstrap部分
+    - 案例相关视频多看几遍，其他视频快速看和记不住没关系
+    - 重点看
+      - p6-60: html基础 
+        - 记不住没关系，要用时再去查，多查就熟悉了
+        - 多做案例，在做案例时反复查询和搜索来理解和记忆的
+        - 知道标签属性存在，在哪里查就可以了
+      - p61-90: css基础
+        - p72-82: 文本属性可跳过，简单了解即可
+      - p136-161: 网页布局
+      - p416-439: 👉 flex布局，非常重要，花1周时间
+      - p221-233: 定位，了解即可，不需要深入
+    - 可不看
+      - P398-移动端
+      - p169-包含浮动暂时不看，简单了解即可，已过时
+      - p190-包含ps切图，不用看，已过时
+      - p448-包含less、rem
+      - 不需要看bootstrap部分
     - resources
       - https://gitee.com/piante/blackHorse-PinkTeacher-PPT
         - 黑马程序员-Pink老师的前端开发教学视频相关的素材
-  - 黑马pink js+echarts
+  - 👉 黑马pink js+echarts，js最重要
     - https://www.bilibili.com/video/BV1Sy4y1C7ha
   - 💡 尚硅谷Web前端零基础入门 HTML5+CSS3
     - https://www.bilibili.com/video/BV1XJ411X7Ud
@@ -119,7 +134,7 @@
 
 - 千古前端图文教程，超详细的 Web 前端入门到进阶学习笔记。
   - https://github.com/qianguyihao/Web
-  - https://web.qianguyihao.com/
+  - 👉 https://web.qianguyihao.com/
   - 看文档效率虽然快，但是很枯燥，不适合小白入门，入门还是要看视频
 
 - learn to code
