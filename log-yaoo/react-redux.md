@@ -5,6 +5,7 @@
   - 巩固react
   - 学习react状态管理方法
   - 学习redux用法和原理
+  - 实现一个示例 待办事项todoList
   - 资料太多不用全看，挑对自己有用或感兴趣的看，边做变记录方便复习
 
 - react开发示例
@@ -17,5 +18,8 @@
   - [React 状态管理 - useState/useReducer + useContext 实现全局状态管理](https://www.51cto.com/article/705227.html)
   - [使用 React Hooks + Context 打造简版 Redux](https://hentaicracker.github.io/2019/hooks.html#%E6%B7%B1%E5%85%A5)
 
-- 效果
-  - react示例demo
+- 示例参考 todomvc 
+  - https://todomvc.com/
+  - https://github.com/tastejs/todomvc
+  - https://github.com/twinstae/todomvc-for-all
+  - https://github.com/rokoroku/react-redux-typescript-boilerplate
