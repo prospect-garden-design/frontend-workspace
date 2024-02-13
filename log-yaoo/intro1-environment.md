@@ -1,8 +1,16 @@
 # introduction
 - common
   - https://github.com/prospect-garden-design/frontend-workspace
-  - https://hub.fastgit.xyz/prospect-garden-design/frontend-workspace
-# 0701-视频预习 + github上传下载
+  - https://gitee.com/prospect-garden/frontend-workspace
+  - https://cdn.tsinbei.com/ghi/prospect-garden-design/frontend-workspace
+# github使用技巧
+- github上的仓库都是参考案例，有的简单有的复杂，可寻找适合自己的
+
+- [GitHub 镜像站 | 清北CDN](https://cdn.tsinbei.com/mirror/github.html)
+  - 将原网址 github.com 替换为 cdn.tsinbei.com/ghi
+  - https://github.com/luckiikawayii/notes-luckiikawayii
+  - https://cdn.tsinbei.com/ghi/luckiikawayii/notes-luckiikawayii
+# 20220701-视频预习 + github上传下载
 - repository类似文件夹，类似网盘
 
 - terminal 终端 命令行 ，意思相同
@@ -51,7 +59,7 @@ git pull
 
 - github相关的资料做一遍比看文档有效多了，你不用看了，有问题直接搜索即可；
 - 今天你先看这个文档 0702的内容，然后主要看第一个视频，看5-10个即可，，，记得在笔记本电脑上做些笔记
-# 0630-environment-dev
+# 20220630-environment-dev
 
 ## good habit
 
@@ -82,7 +90,7 @@ git pull
   - 自己在github上创建仓库，尝试一下，跟着教程做一做
 
 - markdown (暂时不看)
-# 0629-environment
+# 20220629-environment
 - 常用网站 (国内 > 国外)
   - 百度
     - google
@@ -97,7 +105,7 @@ git pull
 
 - 电脑系统
   - 操作系统 windows，MacOS, Linux(ubuntu/debian/centos)
-# 0629-熟悉使用MacBook笔记本电脑
+# 20220629-熟悉使用MacBook笔记本电脑
 
 ## prepare-sign-up
 
@@ -110,16 +118,3 @@ git pull
 - 腾讯会议
 - 百度网盘/阿里云盘
 - xcode
-
-## 熟悉使用macbook笔记本电脑的小技巧和快捷键
-
-- Mac使用技巧大整合：基础篇+进阶篇
-  - https://zhuanlan.zhihu.com/p/89987302
-
-- 如何高效记住 Mac 的快捷键？
-  - https://www.zhihu.com/question/24757023
-
-> 就看这两篇，有什么不清楚的，自己在 https://www.zhihu.com/ 网站搜索，需要注册一个知乎账号
-
-- 使用Mac的100个小技巧 (可不看，只需了解下留个印象)
-  - https://www.bilibili.com/video/BV1Xc411h7ve

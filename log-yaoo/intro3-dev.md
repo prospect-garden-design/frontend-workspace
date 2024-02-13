@@ -94,6 +94,18 @@
   - 先动手做出东西，再去寻找原理
   - 了解原理，应付面试
 
+- 后端nodejs教程
+  - 💡 黑马 Node.js 7天教程（李鹏周）完整版
+    - https://www.bilibili.com/video/BV13T4y1A7qQ 
+    - 重点: http服务、表单提交、模块、crud、api、ajax
+    - p76后面mongodb/crud相关的内容可需要时再细看
+  - 2023新版！0基础2天快速上手Node.js，玩转Webpack
+    - https://www.bilibili.com/video/BV1Go4y177we/
+    - webpack相关的简单理解即可，不用深入
+  - 尚硅谷Node.js零基础视频教程
+    - https://www.bilibili.com/video/BV1gM411W7ex
+  - 💡 [Node.js 教程 文字版 | 菜鸟教程](https://www.runoob.com/nodejs/nodejs-tutorial.html)
+
 - 前端基础视频
   - 💡 黑马程序员pink老师前端入门教程 HTML5+CSS3+移动端
     - https://www.bilibili.com/video/BV14J4114768
